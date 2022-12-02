@@ -12,7 +12,7 @@ session_start();
 <html lang="en">
 <head>
    
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="Biodata.css">
     <title>Berhasil Login</title>
 </head>
 <body>
