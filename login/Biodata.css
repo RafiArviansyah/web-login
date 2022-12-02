@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://img.itch.zone/aW1nLzM5MTE1MTEucG5n/original/Ex39Su.png);
+}
+h3{
+    font-size: 20px;
+    color: rgb(253, 201, 79);
+    font-family:'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium';
+}
+ul{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans';
+}
+a{
+    color: rgb(255, 0, 0);
+    text-decoration-line: none;
+}
