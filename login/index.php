@@ -3,7 +3,7 @@
 <head>
     <link rel="stylesheet" type="text/css" href="style2.css">
  
-    <title>Web Login/title>
+    <title>Web Login</title>
 </head>
 <body>
     <div class="alert alert-warning" role="alert">
